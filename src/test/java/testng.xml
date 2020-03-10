@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/reinz/Desktop/JenkinsDemo/src/test/java">
+        <classes>
+            <class name="testcase.testCase1">
+                <methods>
+                    <include name="thisIsPassedCase"/>
+                    <include name="thisIsFailedCase"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
