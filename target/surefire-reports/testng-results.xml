@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="All Test Suite" duration-ms="36" started-at="2020-03-10T23:48:32 ICT" finished-at="2020-03-10T23:48:32 ICT">
+  <suite name="All Test Suite" duration-ms="31" started-at="2020-03-11T00:36:48 ICT" finished-at="2020-03-11T00:36:48 ICT">
     <groups>
     </groups>
-    <test name="/Users/reinz/Desktop/JenkinsDemo/src/test/java" duration-ms="36" started-at="2020-03-10T23:48:32 ICT" finished-at="2020-03-10T23:48:32 ICT">
+    <test name="/Users/reinz/Desktop/JenkinsDemo/src/test/java" duration-ms="31" started-at="2020-03-11T00:36:48 ICT" finished-at="2020-03-11T00:36:48 ICT">
       <class name="testcase.testCase1">
-        <test-method status="PASS" signature="thisIsPassedCase()[pri:0, instance:testcase.testCase1@3327bd23]" name="thisIsPassedCase" duration-ms="4" started-at="2020-03-10T23:48:32 ICT" finished-at="2020-03-10T23:48:32 ICT">
+        <test-method status="PASS" signature="thisIsPassedCase()[pri:0, instance:testcase.testCase1@3327bd23]" name="thisIsPassedCase" duration-ms="4" started-at="2020-03-11T00:36:48 ICT" finished-at="2020-03-11T00:36:48 ICT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- thisIsPassedCase -->
-        <test-method status="PASS" signature="thisIsFailedCase()[pri:0, instance:testcase.testCase1@3327bd23]" name="thisIsFailedCase" duration-ms="0" started-at="2020-03-10T23:48:32 ICT" finished-at="2020-03-10T23:48:32 ICT">
+        <test-method status="PASS" signature="thisIsFailedCase()[pri:0, instance:testcase.testCase1@3327bd23]" name="thisIsFailedCase" duration-ms="0" started-at="2020-03-11T00:36:48 ICT" finished-at="2020-03-11T00:36:48 ICT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- thisIsFailedCase -->
